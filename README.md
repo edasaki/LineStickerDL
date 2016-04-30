@@ -5,10 +5,10 @@ Tool for downloading LINE stickers and building XML files for Xenforo smiley imp
 None. Compile with any Java compiler and you're good to go!
 
 ## Example Usage
-I want to use [these stickers](https://store.line.me/stickershop/product/2462/en) on my Xenforo forums):
+Example of how I would upload [these stickers](https://store.line.me/stickershop/product/5271/en) onto my Xenforo forums to use as smileys.
 
 1. Use option 1: Full sticker download
-2. Type the URL and press enter: https://store.line.me/stickershop/product/2462/en
+2. Type the URL and press enter: https://store.line.me/stickershop/product/5271/en
 3. Stickers are now downloaded to /output/ and /output_key/ folders in the source directory
 4. Keep the folder that you want. /output/ contains large images and /output_key/ contains smaller images (_key is more suitable for forums in my opinion)
 5. Upload folder to your forums.
