@@ -1,6 +1,9 @@
 # LineStickerDL
 Tool for downloading LINE stickers and building XML files for Xenforo smiley importing from image directories.
 
+## Disclaimer
+This was mostly coded to practice implementing certain features. All LINE stickers are copyrighted by their respective copyright owners, and actually using these images for your own purposes likely constitutes copyright infringement. Please be aware of relevant copyright law if you choose to use this!
+
 ## Dependencies
 None. Compile with any Java compiler and you're good to go!
 
